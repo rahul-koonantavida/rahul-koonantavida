@@ -1,4 +1,6 @@
-### Hi there 👋
+- 👋 Hi, I’m Rahul Koonantavida!
+- 🧑‍🎓 I'm a senior at UC Irvine studying computer science and bioinformatics.
+- 📫 Contact me at rahulkoonantavida@gmail.com!
 
 <!--
 **rahul-koonantavida/rahul-koonantavida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
